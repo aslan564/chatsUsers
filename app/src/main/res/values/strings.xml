@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FireMassageApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="continue_amp_sign_in"><![CDATA[Continue & Sign In]]></string>
+    <string name="save">Save</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="my_bio">My Bio</string>
+    <string name="my_name">My Name</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="cricleimageuser">cricleImageUser</string>
+    <string name="fire_your_message">Fire your message</string>
+    <string name="audio_playing">Audio Playing</string>
+</resources>
